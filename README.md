@@ -1,3 +1,11 @@
+#Tutorial
+https://dzone.com/articles/build-secure-microservices-with-jhipster-docker-an
+
+Client ID 0oafgjlk9luL2ntTn0h7
+Client Secret quO-huqIdSX_OShCXCXjKEP9ElocUChqHw_k3gpq
+
+
+
 # gateway
 This application was generated using JHipster 4.14.4, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.14.4](http://www.jhipster.tech/documentation-archive/v4.14.4).
 
